@@ -1,0 +1,22 @@
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:minWidth="25px" android:minHeight="25px" xmlns:android="http://schemas.android.com/apk/res/android"><!--<TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="1">
+        <TableRow>
+            <EditText
+                android:layout_column="0"
+                android:inputType="text"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:maxLength="50"
+                android:id="@+id/searchEditText"
+                android:layout_centerVertical="true" />
+            <Button
+                android:layout_column="2"
+                android:text="Search"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/searchButton"
+                android:layout_alignParentRight="true" />
+        </TableRow>
+    </TableLayout>--><RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"><Button android:text="Search" android:background="@color/CP_camo1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/searchButton" android:layout_alignParentLeft="true" /><EditText android:layout_alignParentRight="true" android:inputType="text" android:layout_width="wrap_content" android:layout_height="40dp" android:id="@+id/searchEditText" android:layout_toRightOf="@+id/searchButton" android:layout_centerVertical="true" android:background="@color/CP_honeydew2" android:textColor="@android:color/black" android:shadowColor="#ffb4b4b4" /></RelativeLayout><ListView android:minWidth="25px" android:minHeight="25px" android:layout_width="match_parent" android:layout_height="match_parent" android:id="@+id/companionPlantListView" /></LinearLayout>

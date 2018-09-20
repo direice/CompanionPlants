@@ -1,0 +1,11 @@
+D:\AndroidDev\CompanionPlants\CompanionPlants\obj\Release\android\assets\CompanionPlants.dll
+D:\AndroidDev\CompanionPlants\CompanionPlants\obj\Release\android\assets\CompanionPlants.Core.dll
+D:\AndroidDev\CompanionPlants\CompanionPlants\obj\Release\android\assets\Java.Interop.dll
+D:\AndroidDev\CompanionPlants\CompanionPlants\obj\Release\android\assets\Mono.Android.dll
+D:\AndroidDev\CompanionPlants\CompanionPlants\obj\Release\android\assets\mscorlib.dll
+D:\AndroidDev\CompanionPlants\CompanionPlants\obj\Release\android\assets\System.Core.dll
+D:\AndroidDev\CompanionPlants\CompanionPlants\obj\Release\android\assets\System.dll
+D:\AndroidDev\CompanionPlants\CompanionPlants\obj\Release\android\assets\System.Xml.dll
+D:\AndroidDev\CompanionPlants\CompanionPlants\obj\Release\android\assets\System.Xml.Linq.dll
+D:\AndroidDev\CompanionPlants\CompanionPlants\obj\Release\android\assets\System.Runtime.Serialization.dll
+D:\AndroidDev\CompanionPlants\CompanionPlants\obj\Release\android\assets\System.ServiceModel.Internals.dll

@@ -1,0 +1,11 @@
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\bin\Debug\CompanionPlants.Core.dll
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\bin\Debug\CompanionPlants.Core.pdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\obj\Debug\CompanionPlants.Core.dll
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\obj\Debug\CompanionPlants.Core.pdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\obj\Debug\CompanionPlants.Core.csprojResolveAssemblyReference.cache
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\obj\Debug\CompanionPlants.Core.dll.mdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\bin\Debug\CompanionPlants.Core.dll.mdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\obj\Debug\CompanionPlants.Core.dll.mdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\bin\Debug\CompanionPlants.Core.dll.mdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\obj\Debug\CompanionPlants.Core.dll.mdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\bin\Debug\CompanionPlants.Core.dll.mdb

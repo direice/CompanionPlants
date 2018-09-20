@@ -1,0 +1,15 @@
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\bin\Release\CompanionPlants.Core.dll
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\bin\Release\CompanionPlants.Core.pdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\obj\Release\CompanionPlants.Core.csprojResolveAssemblyReference.cache
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\obj\Release\CompanionPlants.Core.dll
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\obj\Release\CompanionPlants.Core.pdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\obj\Release\CompanionPlants.Core.dll.mdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\bin\Release\CompanionPlants.Core.dll.mdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\obj\Release\CompanionPlants.Core.dll.mdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\bin\Release\CompanionPlants.Core.dll.mdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\obj\Release\CompanionPlants.Core.dll.mdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\bin\Release\CompanionPlants.Core.dll.mdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\obj\Release\CompanionPlants.Core.dll.mdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\bin\Release\CompanionPlants.Core.dll.mdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\obj\Release\CompanionPlants.Core.dll.mdb
+D:\AndroidDev\CompanionPlants\CompanionPlants.Core\bin\Release\CompanionPlants.Core.dll.mdb
