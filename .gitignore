@@ -332,3 +332,11 @@ ASALocalRun/
 /ZenfulNeps/Data/QuarterBacks.txt
 /ZenfulNeps/Data/Kickers.txt
 /ZenfulNeps/Data/Defense.txt
+
+CompanionPlants\.Core/bin/Debug/
+
+*.dll
+
+CompanionPlants\.Core/bin/Release/
+
+*.cache
